@@ -1,0 +1,6 @@
+framework module EnjoyGlobal {
+  umbrella header "EnjoyGlobal.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module EnjoyBase {
+  umbrella header "EnjoyBase.h"
+
+  export *
+  module * { export * }
+}
